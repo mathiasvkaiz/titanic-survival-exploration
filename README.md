@@ -23,7 +23,7 @@ This project contains three files:
   This is the main file where you will be performing your work on the project.
 - titanic_data.csv: The project dataset  
   You’ll load this data in the notebook.
-- visuals.py  
+- titanic_visualizations.py  
   This Python script provides supplementary visualizations for the project. Do not modify.
   
 ### Run
